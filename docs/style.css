@@ -31,10 +31,12 @@ body {
 
 h1 {
   font-weight: 800;
+  padding: 30px;
 }
 
 h2 {
   font-weight: 700;
+  padding: 15px;
 }
 
 .header {
